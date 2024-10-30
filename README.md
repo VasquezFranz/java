@@ -1,11 +1,11 @@
-public class Alumno {
-    private String foto;       // Foto del alumno
-    private String nombre;     // Nombre del alumno
-    private int edad;         // Edad del alumno
-    private int practica1;     // Nota de la práctica 1
-    private int practica2;     // Nota de la práctica 2
-    private int practica3;     // Nota de la práctica 3
-    private int examenFinal;   // Nota del examen final
+public class Alumno 
+private String foto;       // Foto del alumno
+private String nombre;     // Nombre del alumno
+private int edad;         // Edad del alumno
+private int practica1;     // Nota de la práctica 1
+private int practica2;     // Nota de la práctica 2
+private int practica3;     // Nota de la práctica 3
+private int examenFinal;   // Nota del examen final
 
     // Constructor parametrizado
     public Alumno(String foto, String nombre, int edad, int practica1, int practica2, int practica3, int examenFinal) {
